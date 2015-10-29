@@ -1,3 +1,5 @@
+#Incomplete – Still working on it
+
 class Flash
   def initialize
     @messages = Hash.new { Array.new }
